@@ -1,5 +1,5 @@
 /*
-ASSIGNMENT 2 - SCALAR FUNCTIONS
+SCALAR FUNCTIONS
 Alias all calculated columns
 */
 USE CommunityAssist
