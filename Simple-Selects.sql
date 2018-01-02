@@ -1,7 +1,9 @@
-USE CommunityAssist
 /*
-ASSIGNMENT1 - SIMPLE SELECTS
+SIMPLE SELECTS
 */
+
+USE CommunityAssist
+
 --1. Return all the records for the table CommunityService
 SELECT *
 FROM CommunityService
